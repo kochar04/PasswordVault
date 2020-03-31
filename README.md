@@ -1,7 +1,7 @@
 # Password Manager
 ## How to Setup
 
-### Step 1: Clone PasswordManager Repo & AdminLTE
+### Step 1: Clone PasswordManager & AdminLTE
 <!-- Code Blocks -->
 ```bash
 git clone https://github.com/kochar04/PasswordManager.git
