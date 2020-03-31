@@ -23,8 +23,11 @@ cd PasswordManager
 git clone https://github.com/kochar04/AdminLTE.git
 ```
 
+#### Step 2: Setup Application
+Open http://localhost/PasswordManager/setup.php
+
 ### Credits
-- [AdminLTEBundle](https://github.com/kevinpapst/AdminLTEBundle/)
+- [AdminLTE theme](https://github.com/almasaeed2010/AdminLTE)
 
 ### About Owner
 Name: Harshit Kochar<br />
