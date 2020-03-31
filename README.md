@@ -24,5 +24,8 @@ git clone https://github.com/kochar04/AdminLTE.git
 ```
 
 ### Credits
-- [AdminLTE theme](https://github.com/almasaeed2010/AdminLTE)
 - [AdminLTEBundle](https://github.com/kevinpapst/AdminLTEBundle/)
+
+### About Owner
+Name: Harshit Kochar<br />
+Email Address: kochr04@gmail.com
